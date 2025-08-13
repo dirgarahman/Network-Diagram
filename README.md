@@ -7,23 +7,6 @@ Designed for **clarity, maintainability, and easy version control** — making n
 
 ---
 
-## 📂 Current Structure
-Network-Diagram/
-
-├── 2nd-floor/
-
-│ ├── Network Diagram 2nd floor.drawio
-
-│ ├── Network Diagram 2nd floor.png
-
-│ ├── Network Diagram 2nd floor.svg
-
-│ └── README.md
-
-└── LICENSE
-
----
-
 ## 📌 Available Diagrams
 
 | Floor / Setup | Editable (.drawio) | Preview (.png) | Vector (.svg) |
