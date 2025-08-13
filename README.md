@@ -9,11 +9,17 @@ Designed for **clarity, maintainability, and easy version control** — making n
 
 ## 📂 Current Structure
 Network-Diagram/
+
 ├── 2nd-floor/
+
 │ ├── Network Diagram 2nd floor.drawio
+
 │ ├── Network Diagram 2nd floor.png
+
 │ ├── Network Diagram 2nd floor.svg
+
 │ └── README.md
+
 └── LICENSE
 
 ---
@@ -30,7 +36,7 @@ Network-Diagram/
 
 ## 🛠 Editing Workflow
 
-1. **Open the `.drawio` file** in [diagrams.net](https://www.diagrams.net/) (or import it).  
+1. **Open the `.drawio` file** in [app.diagram.net](https://app.diagrams.net/) (or import it).  
 2. Make your network changes.  
 3. Export:
    - `.png` for quick previews on GitHub
